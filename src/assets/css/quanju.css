@@ -1,0 +1,42 @@
+html,body,#app {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    min-width: 1366px;
+}
+
+.el-breadcrumb{
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+
+.el-card{
+    box-shadow: 0,1,1,rgb(0, 0, 0.15) !important;
+}
+.el-table{
+    margin-top: 20px;
+    font-size: 12px;
+}
+.el-pagination{
+    margin-top:15px;
+}
+.el-tag{
+    margin: 9px;
+}
+.top-border{
+    border-top: 1px solid #eee;
+}
+.bot-border{
+    border-bottom: 1px solid #eee;
+}
+
+.el-step__title{
+    font-size: 12px;
+}
+.el-steps{
+    margin: 15px 0px;
+}
+.ql-editor{
+    min-height: 300px;
+}
